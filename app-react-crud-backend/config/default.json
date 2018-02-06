@@ -1,0 +1,10 @@
+{
+  "host": "0.0.0.0",
+  "port": 8081,
+  "public": "../public/",
+  "paginate": {
+    "default": 10,
+    "max": 50
+  },
+  "mongodb": "mongodb://ravuthz:ravuthz@ds263837.mlab.com:63837/app_react_crud_backend"
+}
